@@ -70,6 +70,8 @@ pycparser==2.19
 pycryptodome==3.9.9
 Pygments==2.7.4
 pymongo==3.10.1
+psycopg2
+python-decouple
 Pyrebase4==4.4.3
 python-http-client==3.2.7
 python-jwt==2.0.1
